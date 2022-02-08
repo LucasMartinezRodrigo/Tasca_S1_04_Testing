@@ -1,0 +1,2 @@
+org/itacademy/javatesting/assertj/MainClassTest.java
+ org.itacademy.javatesting.assertj.MainClassTest
