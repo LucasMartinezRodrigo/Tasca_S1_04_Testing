@@ -1,2 +1,0 @@
-org/itacademy/javatesting/hamcrest/MainClass.java
- org.itacademy.javatesting.hamcrest.MainClass

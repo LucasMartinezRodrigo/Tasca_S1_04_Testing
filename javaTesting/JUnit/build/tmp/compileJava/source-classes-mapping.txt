@@ -1,8 +1,0 @@
-org/itacademy/javatesting/junit/N1_Ex2/CalculoDni.java
- org.itacademy.javatesting.junit.N1_Ex2.CalculoDni
-org/itacademy/javatesting/junit/N1_Ex1/MonthFiller.java
- org.itacademy.javatesting.junit.N1_Ex1.MonthFiller
-org/itacademy/javatesting/junit/N1_Ex3/ClassWithException.java
- org.itacademy.javatesting.junit.N1_Ex3.ClassWithException
-org/itacademy/javatesting/junit/MainClass.java
- org.itacademy.javatesting.junit.MainClass

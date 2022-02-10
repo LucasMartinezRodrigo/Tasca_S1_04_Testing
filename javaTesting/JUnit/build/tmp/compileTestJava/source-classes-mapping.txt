@@ -1,8 +1,0 @@
-org/itacademy/javatesting/junit/MainClassTest.java
- org.itacademy.javatesting.junit.MainClassTest
-org/itacademy/javatesting/junit/N1_Ex1/MonthFillerTest.java
- org.itacademy.javatesting.junit.N1_Ex1.MonthFillerTest
-org/itacademy/javatesting/junit/N1_Ex3/ClassWithExceptionTest.java
- org.itacademy.javatesting.junit.N1_Ex3.ClassWithExceptionTest
-org/itacademy/javatesting/junit/N1_Ex2/CalculoDNITest.java
- org.itacademy.javatesting.junit.N1_Ex2.CalculoDNITest
