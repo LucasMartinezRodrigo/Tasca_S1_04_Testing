@@ -22,11 +22,11 @@ public class CalculoDniTest {
 		o.add(new Object[] {49457267, 'E'});
 		o.add(new Object[] {33015408, 'N'});
 		o.add(new Object[] {91095428, 'H'});	
-		o.add(new Object[] {2840829, 'F'});	
+		o.add(new Object[] {24343653, 'Q'});	
 		o.add(new Object[] {31255346, 'W'});
 		o.add(new Object[] {14690202, 'X'});
 		o.add(new Object[] {12345678, 'Z'});
-		o.add(new Object[] {3453500, 'G'});
+		o.add(new Object[] {19504813, 'P'});
 		o.add(new Object[] {87009119, 'G'});
 		o.add(new Object[] {46702249, 'J'});	
 		return o;
